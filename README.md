@@ -12,8 +12,8 @@ Pasos para la Instalación
 1.
 
 Usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
+Para Descargar el APK ademas de tener la imagen que se usara como image target
 
-Para Descargar el APK
 
 2.Instalar la Aplicación:
 Presiona el botón "Descargar". La descarga tendras que buscarla en la carpeta de Descargas, puslar el boton de Instalar y la instalación comenzarán automáticamente.
