@@ -9,7 +9,8 @@ Espacio suficiente en el dispositivo para instalar la aplicación.
 
 Pasos para la Instalación
 
-En tu dispositivo Android, abre la aplicación de GITHUB.
+En tu dispositivo Android, abre la aplicación de GITHUB o en algun navegador.
+O como alternativa usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
 
 Buscar la Aplicación en el menu principal de nombre: MascotaV10APK 
 
