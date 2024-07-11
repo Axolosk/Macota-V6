@@ -1,4 +1,4 @@
-README
+INSTRUCCIONES
 
 Instalación de la Aplicación de Realidad Aumentada (AR)
 
@@ -24,3 +24,4 @@ Permisos Necesarios
 
 Cámara: Para poder superponer objetos AR en el entorno real.
 
+Gracias por tu Antención :D
