@@ -9,17 +9,17 @@ Espacio suficiente en el dispositivo para instalar la aplicación.
 
 Pasos para la Instalación
 
-En tu dispositivo Android, abre la aplicación de GITHUB o en algun navegador.
+1.
 
-O como alternativa usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
+Usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
 
-Buscar la Aplicación en el menu principal de nombre: MascotaV10APK 
+Para Descargar el APK
 
-Instalar la Aplicación:
+2.Instalar la Aplicación:
 Presiona el botón "Descargar". La descarga tendras que buscarla en la carpeta de Descargas, puslar el boton de Instalar y la instalación comenzarán automáticamente.
 
 
-Abrir la Aplicación:
+3.Abrir la Aplicación:
 Una vez que la instalación haya finalizado, puedes abrir la aplicación directamente desde en el ícono de la aplicación en tu pantalla de inicio o en el cajón de aplicaciones.
 
 Permisos Necesarios
