@@ -9,9 +9,8 @@ Espacio suficiente en el dispositivo para instalar la aplicación.
 
 Pasos para la Instalación
 
-1.
 
-Usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
+1. Usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
 Para Descargar el APK ademas de tener la imagen que se usara como image target
 
 
@@ -25,5 +24,5 @@ Una vez que la instalación haya finalizado, puedes abrir la aplicación directa
 Permisos Necesarios
 
 Cámara: Para poder superponer objetos AR en el entorno real.
-
+ 
 Gracias por tu Antención :D
