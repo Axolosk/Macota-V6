@@ -30,7 +30,7 @@ Requisitos Previos
 
 Pasos para la Instalación
     Descargar la Aplicación:
-        Utiliza el siguiente enlace para descargar el APK y la imagen necesaria como image target: Enlace de Descarga.
+        Utiliza el siguiente enlace para descargar el APK y la imagen necesaria como image target: [Enlace de Descarga.](https://mega.nz/folder/12MmnSJY#84lRQQ0NIq7cV0OYlfwyZQ)
 
 Instalar la Aplicación:
     Una vez descargado, localiza el archivo en la carpeta de descargas y sigue los pasos para instalar la aplicación en tu dispositivo.
