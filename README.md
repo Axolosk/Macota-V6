@@ -1,28 +1,47 @@
-INSTRUCCIONES
+Pingücare
 
-Instalación de la Aplicación de Realidad Aumentada (AR)
+Este repositorio contiene el proyecto Pingücare, desarrollado para la materia de Realidad Virtual y Aumentada.
 
+Descripción del Proyecto
+Pingücare es un juego en realidad aumentada que sigue las desventuras de un torpe pingüino. El jugador debe guiar al pingüino a través de su entorno, indicándole hacia dónde caminar. Sin embargo, el pingüino es bastante torpe y puede tropezar y caer con cualquier cosa, por lo que el jugador debe estar constantemente atento para evitar que se lastime.
+
+Además del juego principal, Pingücare incluye un minijuego en primera persona (FPS) que representa los sueños del pingüino. En estos sueños, el pingüino se imagina a sí mismo como un héroe valiente, enfrentándose a enemigos y viviendo una miniaventura llena de acción, en la que quizás no sea tan torpe como en la vida real.
+
+
+Escenas del Proyecto
+El proyecto incluye las siguientes escenas principales:
+
+    Realidad Aumentada: La escena principal donde el jugador guía al pingüino a través de su entorno real usando la cámara del dispositivo.
+    Minijuego FPS: Una escena de acción que representa los sueños del pingüino, en los que se enfrenta a diversos enemigos.
+    Ventana de configuración en la que el jugador podrá modificar los volumenes de audio.
+    Ventana de configuración en la que el jugador podrá salir del juego
+
+Características Adicionales
+    Interacción en tiempo real con el entorno a través de realidad aumentada.
+    Cambio de escenas entre el juego principal y el minijuego FPS.
+    Diseño y arte atracctivos
+    Un minijuego lleno de acción con enemigos que desafían las habilidades del pingüino.
+
+Instrucciones de Instalación
 Requisitos Previos
-Un dispositivo móvil con sistema operativo Android (versión 7.0 o superior) o iOS (versión 11.0 o superior).
-Conexión a Internet para descargar la aplicación.
-Espacio suficiente en el dispositivo para instalar la aplicación.
+
+    - Un dispositivo móvil con sistema operativo Android (versión 7.0 o superior) o iOS (versión 11.0 o superior).
+    - Conexión a Internet para descargar la aplicación.
+    - Espacio suficiente en el dispositivo para instalar y ejecutar la aplicación.
 
 Pasos para la Instalación
+    Descargar la Aplicación:
+        Utiliza el siguiente enlace para descargar el APK y la imagen necesaria como image target: Enlace de Descarga.
 
+    Instalar la Aplicación:
+        Una vez descargado, localiza el archivo en la carpeta de descargas y sigue los pasos para instalar la aplicación en tu dispositivo.
 
-1. Usa el link a continuación:  https://mega.nz/folder/hiVnnRKI#nu11CsgYbGTW0uf__i6i5A
-Para Descargar el APK ademas de tener la imagen que se usara como image target
-
-
-2.Instalar la Aplicación:
-Presiona el botón "Descargar". La descarga tendras que buscarla en la carpeta de Descargas, puslar el boton de Instalar y la instalación comenzarán automáticamente.
-
-
-3.Abrir la Aplicación:
-Una vez que la instalación haya finalizado, puedes abrir la aplicación directamente desde en el ícono de la aplicación en tu pantalla de inicio o en el cajón de aplicaciones.
+    Abrir la Aplicación:
+        Después de la instalación, abre la aplicación desde el ícono en la pantalla de inicio o en el cajón de aplicaciones.
 
 Permisos Necesarios
 
-Cámara: Para poder superponer objetos AR en el entorno real.
- 
-Gracias por tu Antención :D
+    Cámara: Necesario para superponer el pingüino en el entorno real a través de realidad aumentada.
+
+
+    
