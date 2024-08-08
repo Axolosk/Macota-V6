@@ -43,5 +43,10 @@ Permisos Necesarios
 
     Cámara: Necesario para superponer el pingüino en el entorno real a través de realidad aumentada.
 
+![imagen](https://github.com/user-attachments/assets/fb90b206-8c8a-49ea-aa0d-e48b6eb678d8)
+![imagen](https://github.com/user-attachments/assets/4d1c273d-1298-41c8-b146-871110529c9c)
+![imagen](https://github.com/user-attachments/assets/b6e2b552-678a-4ff0-bf28-2954380870f6)
+![imagen](https://github.com/user-attachments/assets/face53d5-276d-4928-9178-9662787e7299)
+![imagen](https://github.com/user-attachments/assets/1d4d61c6-7fb4-4f14-89d1-3be27280e75f)
 
     
