@@ -10,11 +10,10 @@ Además del juego principal, Pingücare incluye un minijuego en primera persona 
 
 Escenas del Proyecto
 El proyecto incluye las siguientes escenas principales:
-
-    Realidad Aumentada: La escena principal donde el jugador guía al pingüino a través de su entorno real usando la cámara del dispositivo.
-    Minijuego FPS: Una escena de acción que representa los sueños del pingüino, en los que se enfrenta a diversos enemigos.
-    Ventana de configuración en la que el jugador podrá modificar los volumenes de audio.
-    Ventana de configuración en la que el jugador podrá salir del juego
+- Realidad Aumentada: La escena principal donde el jugador guía al pingüino a través de su entorno real usando la cámara del dispositivo.
+- Minijuego FPS: Una escena de acción que representa los sueños del pingüino, en los que se enfrenta a diversos enemigos.
+- Ventana de configuración en la que el jugador podrá modificar los volumenes de audio.
+- Ventana de configuración en la que el jugador podrá salir del juego
 
 Características Adicionales
     Interacción en tiempo real con el entorno a través de realidad aumentada.
@@ -25,23 +24,23 @@ Características Adicionales
 Instrucciones de Instalación
 Requisitos Previos
 
-    - Un dispositivo móvil con sistema operativo Android (versión 7.0 o superior) o iOS (versión 11.0 o superior).
-    - Conexión a Internet para descargar la aplicación.
-    - Espacio suficiente en el dispositivo para instalar y ejecutar la aplicación.
+- Un dispositivo móvil con sistema operativo Android (versión 7.0 o superior) o iOS (versión 11.0 o superior).
+- Conexión a Internet para descargar la aplicación.
+- Espacio suficiente en el dispositivo para instalar y ejecutar la aplicación.
 
 Pasos para la Instalación
     Descargar la Aplicación:
         Utiliza el siguiente enlace para descargar el APK y la imagen necesaria como image target: Enlace de Descarga.
 
-    Instalar la Aplicación:
-        Una vez descargado, localiza el archivo en la carpeta de descargas y sigue los pasos para instalar la aplicación en tu dispositivo.
+Instalar la Aplicación:
+    Una vez descargado, localiza el archivo en la carpeta de descargas y sigue los pasos para instalar la aplicación en tu dispositivo.
 
-    Abrir la Aplicación:
-        Después de la instalación, abre la aplicación desde el ícono en la pantalla de inicio o en el cajón de aplicaciones.
+Abrir la Aplicación:
+    Después de la instalación, abre la aplicación desde el ícono en la pantalla de inicio o en el cajón de aplicaciones.
 
 Permisos Necesarios
 
-    Cámara: Necesario para superponer el pingüino en el entorno real a través de realidad aumentada.
+Cámara: Necesario para superponer el pingüino en el entorno real a través de realidad aumentada.
 
 ![imagen](https://github.com/user-attachments/assets/fb90b206-8c8a-49ea-aa0d-e48b6eb678d8)
 ![imagen](https://github.com/user-attachments/assets/4d1c273d-1298-41c8-b146-871110529c9c)
